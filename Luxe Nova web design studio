@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Luxe Nova | Luxury Websites Durban</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#050505;color:#fff;font-family:Arial,Helvetica,sans-serif;text-align:center}
+a{text-decoration:none;color:inherit}
+.gold{color:#d4af37}
+.topbar{background:#000;padding:12px;border-bottom:1px solid #333;font-size:14px}
+.topbar a{color:#d4af37;font-weight:bold;margin:0 6px}
+nav{padding:20px 12px;position:sticky;top:0;background:rgba(0,0,0,.97);z-index:50;border-bottom:1px solid #d4af37}
+.logo{font-family:Georgia,serif;font-size:32px;letter-spacing:5px;color:#d4af37}
+.links{margin-top:12px}
+.links a{margin:0 8px;font-size:14px;font-weight:bold;text-transform:uppercase}
+.links a:hover{color:#d4af37}
+.hero{padding:70px 20px;background:radial-gradient(circle at top,#2a2100,#000 62%)}
+.hero h1{font-family:Georgia,serif;font-size:52px;line-height:1.1}
+.hero h1 span{background:linear-gradient(90deg,#d4af37,#fff2a8,#d4af37);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{max-width:650px;margin:22px auto;font-size:18px;line-height:1.7;color:#ddd}
+.btn{display:inline-block;background:linear-gradient(90deg,#d4af37,#f5d76e);color:#000;padding:16px 30px;border-radius:30px;font-weight:bold;margin:8px;font-size:17px}
+.btn2{display:inline-block;border:2px solid #d4af37;color:#d4af37;padding:14px 28px;border-radius:30px;font-weight:bold;margin:8px}
+.section{padding:55px 20px;max-width:1000px;margin:auto}
+.section h2{font-family:Georgia,serif;font-size:36px;color:#d4af37;margin-bottom:15px}
+.section p{line-height:1.7;color:#ddd;font-size:17px}
+.cards{display:flex;flex-wrap:wrap;gap:18px;justify-content:center;margin-top:30px}
+.card{width:290px;border:1px solid #d4af37;border-radius:16px;padding:28px;background:linear-gradient(180deg,#141414,#080808);text-align:left}
+.card h3{color:#d4af37;font-size:22px;margin-bottom:10px}
+.card .price{font-size:36px;color:#fff;font-weight:bold;margin:12px 0}
+.gallery{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;margin-top:30px}
+.gallery img{width:300px;height:200px;object-fit:cover;border:2px solid #d4af37;border-radius:14px}
+.review{border:1px solid #d4af37;border-radius:16px;padding:25px;margin:15px auto;max-width:650px;background:#111;text-align:left}
+.stars{color:#d4af37;font-size:22px;letter-spacing:3px}
+.big{font-size:20px;line-height:1.7}
+.badge{display:inline-block;border:1px solid #d4af37;padding:8px 16px;border-radius:20px;margin:5px;color:#d4af37;font-weight:bold}
+footer{padding:35px 20px;border-top:2px solid #d4af37;line-height:1.9}
+footer a{color:#d4af37;font-weight:bold}
+.float{position:fixed;bottom:18px;right:18px;z-index:99;display:flex;flex-direction:column;gap:10px}
+.float a{padding:13px 18px;border-radius:30px;font-weight:bold;font-size:15px}
+.wa{background:#25D366;color:#fff}
+.tt{background:#fff;color:#000}
+@media(max-width:600px){.hero h1{font-size:38px}.links a{font-size:12px;margin:0 5px}}
+</style>
+</head>
+<body>
+
+<!-- TOP BAR -->
+<div class="topbar">DURBAN • SOUTH AFRICA • <a href="https://wa.me/27694882373?text=Hi%20Luxe%20Nova,%20I%20saw%20you%20on%20TikTok">WhatsApp: 069 488 2373</a> • <a href="https://www.tiktok.com/@luxe.nova.web.des" target="_blank">TikTok: @luxe.nova.web.des</a></div>
+
+<!-- MENU -->
+<nav>
+<div class="logo">LUXE NOVA</div>
+<div class="links">
+<a href="#home">Home</a>
+<a href="#services">Services</a>
+<a href="#work">My Work</a>
+<a href="#reviews">Reviews</a>
+<a href="#contact">Contact</a>
+</div>
+</nav>
+
+<!-- 1. OPENING PAGE / HOME -->
+<div class="hero" id="home">
+<h1>Your Business<br><span>Deserves To Look<br>Like A Million Rand.</span></h1>
+<p>I build luxury 1-page websites for Durban businesses and artisans. No monthly fees. You pay half to start, half when it is live.</p>
+<a class="btn" href="https://wa.me/27694882373?text=Hi%20Luxe%20Nova,%20I%20saw%20you%20on%20TikTok">💬 WhatsApp Me For A Free Demo</a>
+<a class="btn2" href="#work">See My Work →</a><br>
+<a class="btn2" href="https://www.tiktok.com/@luxe.nova.web.des" target="_blank">▶ Follow Me On TikTok</a>
+<p style="margin-top:25px">⭐⭐⭐⭐⭐ Trusted by salons, artisans, builders &amp; shops in Durban</p>
+</div>
+
+<div class="section">
+<h2>Why Businesses Choose Luxe Nova</h2>
+<p>Your Facebook page is not a website. A boss, a client, a customer, they Google you first. If you look cheap online, they choose the next business.</p>
+<div class="cards">
+<div class="card"><h3>✨ Luxury Design</h3><p>Black &amp; gold, clean, premium. Your business looks expensive and trustworthy in 3 seconds.</p></div>
+<div class="card"><h3>📱 Made For Phone</h3><p>90% of your customers are on their phone. Your site is built phone-first, fast and easy to tap.</p></div>
+<div class="card"><h3>💬 1-Tap WhatsApp</h3><p>No forms. No email. Customers tap once and they are talking to YOU on WhatsApp.</p></div>
+</div>
+</div>
+
+<!-- 2. SERVICE PAGE -->
+<div class="section" id="services">
+<h2>Services &amp; Prices</h2>
+<p>Simple prices. No hidden monthly fees. No surprises.</p>
+<div class="cards">
+<div class="card"><h3>STARTER PORTFOLIO</h3><div class="price">R2,500</div><p>✔ 1-Page luxury website<br>✔ Your photos, before &amp; after<br>✔ Services &amp; prices<br>✔ WhatsApp Hire Me button<br>✔ Reviews section<br>✔ Google-ready</p><br><a class="btn" href="https://wa.me/27694882373?text=Hi%20Luxe%20Nova,%20I%20want%20the%20Starter%20R2,500">I Want Starter</a></div>
+
+<div class="card"><h3>PRO + LINKEDIN</h3><div class="price">R3,500</div><p>✔ Everything in Starter<br>✔ Download My CV button<br>✔ QR Business Card<br>✔ LinkedIn headline fix<br>✔ LinkedIn banner fix<br>✔ LinkedIn link added</p><br><a class="btn" href="https://wa.me/27694882373?text=Hi%20Luxe%20Nova,%20I%20want%20the%20Pro%20R3,500">I Want Pro</a></div>
+
+<div class="card"><h3>ARTISAN SPECIAL</h3><div class="price">R2,500</div><p>✔ Made for artisans<br>✔ Skills &amp; certificates<br>✔ Boss reviews<br>✔ Photos of your work<br>✔ Built to get you HIRED faster</p><br><a class="btn" href="https://wa.me/27694882373?text=Hi%20Luxe%20Nova,%20I%20am%20an%20artisan,%20I%20want%20a%20website">I Am An Artisan</a></div>
+</div>
+<p style="margin-top:30px"><b>How it works:</b> WhatsApp me → Pay R1,250 to start → Send your photos → I build it → Pay R1,250 when it is LIVE</p>
+<p style="margin-top:20px"><span class="badge">Electricians</span><span class="badge">Welders</span><span class="badge">Plumbers</span><span class="badge">Carpenters</span><span class="badge">Tilers</span><span class="badge">Painters</span><span class="badge">Builders</span><span class="badge">Salons</span></p>
+</div>
+
+<!-- 3. MY WORK PAGE -->
+<div class="section" id="work">
+<h2>My Work</h2>
+<p>This is the Luxe Nova style. Imagine YOUR photos, YOUR name, YOUR prices here.</p>
+<div class="gallery">
+<img src="images/photo1.jpg" alt="Luxe Nova work 1">
+<img src="images/photo2.jpg" alt="Luxe Nova work 2">
+<img src="images/photo3.jpg" alt="Luxe Nova work 3">
+<img src="images/photo4.jpg" alt="Luxe Nova work 4">
+</div>
+<p style="margin-top:25px">Want yours to look like this? Send me 3 photos on WhatsApp and I will send you a free demo preview.</p>
+<a class="btn" href="https://wa.me/27694882373?text=Hi%20Luxe%20Nova,%20here%20are%20my%203%20photos,%20send%20me%20a%20demo">Send My 3 Photos On WhatsApp</a>
+<a class="btn2" href="https://www.tiktok.com/@luxe.nova.web.des" target="_blank">Watch My Work On TikTok</a>
+</div>
+
+<!-- 4. REVIEW PAGE -->
+<div class="section" id="reviews">
+<h2>What Clients Say</h2>
+<p>Real people. Real businesses. Real results in Durban.</p>
+
+<div class="review"><div class="stars">★★★★★</div><p class="big">"My salon looked cheap on Facebook. Now clients say my website looks like a 5-star hotel. Bookings went up in the first week."</p><p><b class="gold">— Salon Owner, Durban</b></p></div>
+
+<div class="review"><div class="stars">★★★★★</div><p class="big">"I am a welder. Bosses used to skip me because they could not see my work. Now I send them my link and they call me first."</p><p><b class="gold">— Welder, Durban</b></p></div>
+
+<div class="review"><div class="stars">★★★★★</div><p class="big">"Professional, fast, and she explained everything. I paid half to start, half when it was live. No stress."</p><p><b class="gold">— Builder, KwaZulu-Natal</b></p></div>
+
+<a class="btn" href="https://wa.me/27694882373?text=Hi%20Luxe%20Nova,%20I%20want%20to%20be%20your%20next%20review">Start On WhatsApp</a>
+</div>
+
+<!-- 5. CONTACT PAGE -->
+<div class="section" id="contact">
+<h2>Let's Build Yours Today</h2>
+<p class="big">Do not wait for the next business to take your customer.<br><br>Send me this on WhatsApp, copy and paste it:<br><br><i>"Hi Luxe Nova, my name is ___, my business is ___, I want a website. Here are my 3 photos."</i></p><br>
+<a class="btn" href="https://wa.me/27694882373?text=Hi%20Luxe%20Nova,%20I%20saw%20you%20on%20TikTok,%20I%20want%20a%20website">💬 WhatsApp: 069 488 2373</a><br>
+<a class="btn2" href="https://www.tiktok.com/@luxe.nova.web.des" target="_blank">▶ TikTok: @luxe.nova.web.des</a>
+<p style="margin-top:30px">📍 Durban, South Africa<br>🕐 Mon - Sat: 8am - 6pm<br>💰 R1,250 to start • R1,250 when LIVE • No monthly fee</p>
+</div>
+
+<footer>
+<b class="gold">LUXE NOVA WEB DESIGN STUDIO</b><br>
+Professional • Reliable • Local to Durban<br>
+WhatsApp: <a href="https://wa.me/27694882373?text=Hi%20Luxe%20Nova,%20I%20saw%20you%20on%20TikTok">069 488 2373</a> | TikTok: <a href="https://www.tiktok.com/@luxe.nova.web.des" target="_blank">@luxe.nova.web.des</a><br>
+<a href="#home">Home</a> • <a href="#services">Services</a> • <a href="#work">My Work</a> • <a href="#reviews">Reviews</a> • <a href="#contact">Contact</a>
+</footer>
+
+<!-- FLOATING BUTTONS - ON EVERY PAGE SECTION -->
+<div class="float">
+<a class="wa" href="https://wa.me/27694882373?text=Hi%20Luxe%20Nova,%20I%20saw%20you%20on%20TikTok">WhatsApp</a>
+<a class="tt" href="https://www.tiktok.com/@luxe.nova.web.des" target="_blank">TikTok</a>
+</div>
+
+</body>
+</html>
